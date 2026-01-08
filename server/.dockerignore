@@ -1,0 +1,43 @@
+# Gradle
+.gradle/
+build/
+bin/
+out/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local properties
+local.properties
+
+# Logs
+*.log
+
+# Test results
+test-results/
+test-reports/
+
+# Kotlin
+*.kotlin_module
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Docker
+Dockerfile
+.dockerignore
